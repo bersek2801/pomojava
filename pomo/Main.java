@@ -1,4 +1,4 @@
-package pomojava
+package pomo
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
